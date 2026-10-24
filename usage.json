@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-completion",
+  "packageVersion": "1.33.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-completion",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-completion",
+  "sourceRepository": "https://github.com/x12i/memorix-complition",
+  "sourceCommit": "1696ab16dd10574d9648783930a9afa7db312d85",
+  "sourcePackageDirectory": ".",
+  "example": {
+    "title": "Fill a missing record field through explicit reader and writer callbacks",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:25:23.881592+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "b98be21f78242105020a3deb5825f38591dffe58315bf0dfc9c32357ad0f942d",
+    "manifestSha256": "055f1b17b1dcf64e33cd0819aa0bf8392eb854c2561daa3fdcc1fc14713ab22a"
+  },
+  "validationFiles": {
+    "src/index.mjs": "b98be21f78242105020a3deb5825f38591dffe58315bf0dfc9c32357ad0f942d"
+  }
+}
